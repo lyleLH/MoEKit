@@ -1,0 +1,110 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/CGPoint+Distance.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGPoint+Distance.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGPoint+Distance.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGPoint+Distance~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGPoint+Distance.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGPoint+Distance.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/CGRect+Extension.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGRect+Extension.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGRect+Extension.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGRect+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGRect+Extension.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/CGRect+Extension.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/Date+Extension.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/Date+Extension.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/Date+Extension.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/Date+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/Date+Extension.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/Date+Extension.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIColor+Alpha.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Alpha.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Alpha.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Alpha~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Alpha.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Alpha.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIColor+Hex.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Hex.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Hex.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Hex.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Hex.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIColor+Init.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Init.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Init.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Init~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Init.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+Init.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIColor+RGB.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+RGB.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+RGB.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+RGB~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+RGB.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIColor+RGB.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIImage+Alpha.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Alpha.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Alpha.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Alpha~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Alpha.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Alpha.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIImage+EdgeInset.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+EdgeInset.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+EdgeInset.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+EdgeInset~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+EdgeInset.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+EdgeInset.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIImage+Manipulation.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Manipulation.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Manipulation.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Manipulation~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Manipulation.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIImage+Manipulation.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIView+AutoLayout.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+AutoLayout.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+AutoLayout.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+AutoLayout~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+AutoLayout.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+AutoLayout.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIView+Embed.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Embed.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Embed.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Embed~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Embed.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Embed.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIView+Helper.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Helper.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Helper.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Helper~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Helper.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIView+Helper.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIViewController+Container.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Container.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Container.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Container~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Container.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Container.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEExtensions/UIViewController+Dismiss.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Dismiss.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Dismiss.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Dismiss~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Dismiss.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/UIViewController+Dismiss.dia"
+  }
+}

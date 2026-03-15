@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoELocalization/LocalizationManager.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/LocalizationManager.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/LocalizationManager.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/LocalizationManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/LocalizationManager.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoELocalization.build/LocalizationManager.dia"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/master.swiftdeps"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BaseVC/DefaultCollectionViewController.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultCollectionViewController.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultCollectionViewController.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultCollectionViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultCollectionViewController.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultCollectionViewController.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BaseVC/DefaultNavigationViewController.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultNavigationViewController.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultNavigationViewController.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultNavigationViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultNavigationViewController.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultNavigationViewController.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BaseVC/DefaultTableViewController.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultTableViewController.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultTableViewController.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultTableViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultTableViewController.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultTableViewController.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BaseVC/DefaultViewController.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultViewController.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultViewController.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultViewController.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultViewController.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BlurView/DefaultBlurView.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultBlurView.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultBlurView.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultBlurView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultBlurView.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultBlurView.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/BlurView/WhiteBlurView.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/WhiteBlurView.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/WhiteBlurView.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/WhiteBlurView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/WhiteBlurView.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/WhiteBlurView.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/Buttons/CloseButton.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/CloseButton.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/CloseButton.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/CloseButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/CloseButton.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/CloseButton.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/Buttons/DefaultButton.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultButton.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultButton.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultButton.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/DefaultButton.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/Loading/LoadingDisplayable.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingDisplayable.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingDisplayable.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingDisplayable~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingDisplayable.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingDisplayable.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/Loading/LoadingView.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingView.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingView.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingView.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/LoadingView.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/TabBar/PTBarButton.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTBarButton.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTBarButton.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTBarButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTBarButton.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTBarButton.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/TabBar/PTCardTabBar.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBar.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBar.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBar.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBar.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/TabBar/PTCardTabBarController.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBarController.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBarController.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBarController~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBarController.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTCardTabBarController.dia"
+  },
+  "/Users/hao92/Documents/GitHub/MoEKit/Sources/MoEUI/TabBar/PTIndicatorView.swift": {
+    "dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTIndicatorView.d",
+    "object": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTIndicatorView.swift.o",
+    "swiftmodule": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTIndicatorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTIndicatorView.swiftdeps",
+    "diagnostics": "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/PTIndicatorView.dia"
+  }
+}

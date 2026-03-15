@@ -1,0 +1,3 @@
+module MoEExtensions {
+    header "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEExtensions.build/include/MoEExtensions-Swift.h"
+}

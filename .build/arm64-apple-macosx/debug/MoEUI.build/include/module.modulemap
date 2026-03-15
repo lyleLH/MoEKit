@@ -1,0 +1,3 @@
+module MoEUI {
+    header "/Users/hao92/Documents/GitHub/MoEKit/.build/arm64-apple-macosx/debug/MoEUI.build/include/MoEUI-Swift.h"
+}
